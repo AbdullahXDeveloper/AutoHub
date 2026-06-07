@@ -101,8 +101,11 @@ autohub/
 ---
 
 ## 📸 Screenshots
+UI
+> <img width="669" height="442" alt="image" src="https://github.com/user-attachments/assets/3b195699-bb7f-4e0d-9ac8-c3fa8bda8336" />
 
-> *(Add screenshots of each theme here)*
+Setting
+> <img width="451" height="370" alt="image" src="https://github.com/user-attachments/assets/472df53e-eae7-4594-ab61-b8e967a36077" />
 
 ---
 
