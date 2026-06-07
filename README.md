@@ -123,7 +123,6 @@ Setting
 
 **Muhammad Abdullah**
 - 🎓 CS Student @ MAJU University, Karachi
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 
 ---
 
